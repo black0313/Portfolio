@@ -1,0 +1,34 @@
+.b {
+    height: 100vh;
+    box-shadow: 5px 5px 10px black;
+    border: 2px solid black;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.t {
+    background-image: url("/src/img/203553.jpg");
+    height: 90vh;
+    margin-top: -30px;
+    transition: all 1s;
+    color: gray;
+}
+
+
+.p1 {
+    margin-top: 20px;
+}
+
+.d {
+    margin-left: 20px;
+    position: relative;
+}
+
+.ing {
+    position: absolute;
+    left: 55%;
+    top: 12%;
+    width: 420px;
+    height: 550px;
+}

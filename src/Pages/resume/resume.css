@@ -1,0 +1,10 @@
+.h{
+    height: 95vh;
+    border: 2px solid black;
+    padding: 10px;
+    width: 100%;
+    background: linear-gradient(-100deg,darkgoldenrod, gray);
+}
+.h2{
+    height: 100px;
+}
